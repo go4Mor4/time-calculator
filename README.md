@@ -1,6 +1,6 @@
 # Time Calculator
 
-`time-calculator` is a tool that allows `<insert_target_audience>` to do `<action/task_it_does>`.
+`time-calculator` is a tool that allows hour bank manager to calculate time.
 
 ## Prerequisites
 
