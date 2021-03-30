@@ -48,5 +48,9 @@ class EnvironmentClass(object):
     def app_icon_path(self) -> str:
         return os.getenv("APP_ICON_PATH")
 
+    @property
+    def bg_color(self) -> str:
+        return os.getenv("BG_COLOR")
+
 
 Environment = EnvironmentClass()
