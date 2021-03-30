@@ -26,7 +26,13 @@ To start application, type:
 ```
 python .
 ```
+# Turning into .EXE 
 
+After installing `requirements.txt` type into the project folder:
+```
+pyinstaller.exe --onefile --icon="src\images\icon.ico" __main__.py --noconsole
+```
+Then you will have an .exe file inside the newly created folder `dist`.
 ## License
 
 This project uses the following license: [MIT](https://github.com/go4Mor4/time-calculator/blob/main/LICENSE).
