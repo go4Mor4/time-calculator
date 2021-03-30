@@ -26,7 +26,7 @@ To start application, type:
 ```
 python .
 ```
-# Turning into .EXE 
+## Turning into .EXE 
 
 After installing `requirements.txt` type into the project folder:
 ```
